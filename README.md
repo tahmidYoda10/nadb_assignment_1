@@ -75,6 +75,25 @@ flutter run
 * Custom light and dark themes
 * No use of setState
 
+## Screenshots
+
+### Add Subject Screen
+
+![Add Subject](ss1.jpeg)
+
+### Subject List Screen
+
+![Subject List](ss2.jpeg)
+
+### Summary Screen
+
+![Summary](ss3.jpeg)
+
+### Dark Mode
+
+![Dark Mode](ss4.jpeg)
+
 ## Author
 
 Tahmid Al Mamun
+
